@@ -2,11 +2,11 @@
 <img src= "https://github.com/Piyush-PD/Piyush-PD/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
-# Welcome To My GitHub Profile !
+# Hi 👋 Piyush Here, Welcome to my github profile !
 
 <br/>
 <div align="center">
-<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/screen.gif" alt="Piyush Dhasmana" />
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/github.gif" alt="Piyush Dhasmana"  width="400" height="450"/>
 </div>
 <br/>
 
@@ -26,7 +26,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/assets/1936.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
@@ -36,14 +36,34 @@
 
 
 <div align="center">
-<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/stickman%20heat.gif" alt="eatsleepcode" width="250" height="250" />
 </div>
 
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
+- 👯 I’m looking to collaborate on: **Contributing on an open-source projects for the AI and Data Engineering stuff, with the community, for the community**
 
-- 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
+- 💬 Ask me about: **AI | DE | Music (Indeed)**
 
-- 🤓 Active User at: **GitHub | LinkedIn | Hackerrank**
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+ 
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/assets/icons/python.png" alt="python" width="120" hight="50">
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/apache%20beam%20logo.png" alt="Beam" width="38" hight="50"> 
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src ="https://github.com/Piyush-PD/Piyush-PD/blob/main/aws%402x.png" alt="AWS" width="110" hight="50">
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/office_365%402x.png" alt="office" width="150" hight="50">
+
+- 🤓 Active User at: **GitHub | LinkedIn**
+
 
 - 📫 How to reach me:
 
@@ -59,6 +79,7 @@
 
 - 😄 Pronouns: **He/Him**
 
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges 
 - ⚡ Fun Facts: 
 
     * *Besides programming, I'm a [**Technical Content Writer**](https://www.mindbrews.in/author/Piyush-PD/), a **Melophile** and love to cook.*
@@ -66,3 +87,9 @@
     * *You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.*
     
     * *If you're still reading, why not follow me ?? Let's Connect !!*
+-->
+
+### Before the code : ☕
+<p align="center">
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/yoda%20tea.gif" alt="yoda" width="250" hight="150">
+
