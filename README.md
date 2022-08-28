@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://github.com/Piyush-PD/Piyush-PD/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+<img src= "https://github.com/Piyush-PD/Piyush-PD/main/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
 
 # Welcome To My GitHub Profile !
 
 <br/>
 <div align="center">
-<img src="https://github.com/Piyush-PD/Piyush-PD/blob/master/screen.gif" alt="Piyush Dhasmana" />
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/screen.gif" alt="Piyush Dhasmana" />
 </div>
 <br/>
 
@@ -14,8 +14,8 @@
 - ⌨️ Programming Languages I've used:
 
 <div align="center">
- <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/pycharm.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/php.svg' width='40'/>
- <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/sql.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/master/images/git.svg' width='30'/>
+ <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/c-original.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/cpp.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/pycharm.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/python2.png' height='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/css.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/js.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/django.svg' height='40'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/flask.png' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/php.svg' width='40'/>
+ <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/sql.svg' width='30'/> <img src = 'https://github.com/Piyush-PD/Piyush-PD/blob/main/images/git.svg' width='30'/>
 </div>
 <-->
 
@@ -26,7 +26,7 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://github.com/Piyush-PD/Piyush-PD/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/coderman.gif" alt="Coder" width="400" height="250" />
 </div>
 <br/>
 
@@ -36,7 +36,7 @@
 
 
 <div align="center">
-<img src="https://github.com/Piyush-PD/Piyush-PD/blob/master/giphy.webp" alt="eatsleepcode" width="250" height="250" />
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/giphy.webp" alt="eatsleepcode" width="250" height="250" />
 </div>
 
 - 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
@@ -54,7 +54,7 @@
     * [**Visit my Website**](https://PiyushBeeps.in)
     
 <div align="center">
-<img src="https://github.com/Piyush-PD/Piyush-PD/blob/master/connected.gif" alt="Piyush Dhasmana" width="350" height="200" />
+<img src="https://github.com/Piyush-PD/Piyush-PD/blob/main/connected.gif" alt="Piyush Dhasmana" width="350" height="200" />
 </div>
 
 - 😄 Pronouns: **He/Him**
