@@ -81,6 +81,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/ACE.png" alt="ACE" width="150" hight="50">
 <img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/PCA.png" alt="PCA" width="150" hight="50">
 <img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/devops.png" alt ="PCDE" width="150" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/pcne.png" alt = "PCNE"  width="150" hight="50">
 </p>
 
 
