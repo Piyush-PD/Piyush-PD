@@ -77,15 +77,15 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 ## Accolades 🏆
 <p align="center">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/PDE.png" alt="PDE" width="130" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/ACE.png" alt="ACE" width="130" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/images/GCP%20ML.png" alt="PML" width="130" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/PCA.png" alt="PCA" width="130" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/images/Azure%20DE.png" alt="Azure" width="130" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/devops.png" alt ="PCDE" width="130" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/pcne.png" alt = "PCNE"  width="130" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/images/DB%20badge.png" alt="DBDE" width="130" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/gcp%20dbe.png" alt = "DBE"  width="140" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/PDE.png" alt="PDE" width="80" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/ACE.png" alt="ACE" width="80" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/images/GCP%20ML.png" alt="PML" width="80" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/PCA.png" alt="PCA" width="80" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/images/Azure%20DE.png" alt="Azure" width="80" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/devops.png" alt ="PCDE" width="80" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/pcne.png" alt = "PCNE"  width="80" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/images/DB%20badge.png" alt="DBDE" width="80" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/gcp%20dbe.png" alt = "DBE"  width="80" hight="50">
 </p>
 
 
