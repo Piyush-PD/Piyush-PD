@@ -84,8 +84,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/images/Azure%20DE.png" alt="Azure" width="100" hight="50">
 <img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/devops.png" alt ="PCDE" width="100" hight="50">
 <img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/pcne.png" alt = "PCNE"  width="100" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/images/DB%20badge.png" alt="DBDE" width="80" hight="50">
-<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/gcp%20dbe.png" alt = "DBE"  width="100" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/images/DB%20badge.png" alt="DBDE" width="75" hight="50">
+<img src = "https://github.com/Piyush-PD/Piyush-PD/blob/main/gcp%20dbe.png" alt = "DBE"  width="110" hight="50">
 </p>
 
 
